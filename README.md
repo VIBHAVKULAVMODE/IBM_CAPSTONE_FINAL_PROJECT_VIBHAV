@@ -24,4 +24,6 @@ Below the organization of the files are explained
 
 - **Customer_intention_prediction_models_final.ipynb** - Contains the code for  training, tuning and saving the models.
 
+- **IBM-capstone.pptx** - Contains the ppt of the project.
+
 

@@ -2,7 +2,7 @@
 
 
 
-![](https://github.com/VIBHAVKULAVMODE/IBM_CAPSTONE_FINAL_PROJECT_VIBHAV/online_browsing.jpg)
+![](https://github.com/VIBHAVKULAVMODE/IBM_CAPSTONE_FINAL_PROJECT_VIBHAV/blob/master/online_browsing.jpg)
 
 This repository is a Data Science project implementation for IBM Advanced Data science certification on coursera. The goal of the project is to explain what actions of   customer browsing on a e-commerce website will contribute to that customer buying a product. The Online shopper intention Dataset found on Kaggle was used. This Dataset was collected from the Turkish website for Columbia clothing brand. 
 

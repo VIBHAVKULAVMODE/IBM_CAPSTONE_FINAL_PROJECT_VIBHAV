@@ -24,6 +24,4 @@ Below the organization of the files are explained
 
 - **Customer_intention_prediction.models.ipynb** - Contains the code for  training, tuning and saving the models.
 
-- **Architectiral Decision Document.pdf** - Contains the documentation of the technology used for various parts of the project  and the reason for using this technology.
 
-- **ppt** - This contains the power point presentation that was used for the final report.

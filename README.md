@@ -3,7 +3,7 @@
 
 ![](https://github.com/NikhilDange1/IBM-Capstone/blob/master/ppt/online_browsing.jpg)
 
-This repository is a Data Science project implementation for IBM Advanced Data science certification on coursera. The goal of the project is to explain what actions of   customer browsing on a e-commerce website will contribute to that customer buying a product. The Online shopper intention Dataset found on Kaggle and also on UCI repository was used. This Dataset was collected from the Turkish website for Columbia clothing brand. 
+This repository is a Data Science project implementation for IBM Advanced Data science certification on coursera. The goal of the project is to explain what actions of   customer browsing on a e-commerce website will contribute to that customer buying a product. The Online shopper intention Dataset found on Kaggle was used. This Dataset was collected from the Turkish website for Columbia clothing brand. 
 
 The project can be divided into three parts. 
 1. Explanatory Data analysis 
@@ -25,4 +25,4 @@ Below the organization of the files are explained
 
 - **Architectiral Decision Document.pdf** - Contains the documentation of the technology used for various parts of the project  and the reason for using this technology.
 
-- **ppt** - This folder contains the power point presentation that was used for the final report.
+- **ppt** - This contains the power point presentation that was used for the final report.

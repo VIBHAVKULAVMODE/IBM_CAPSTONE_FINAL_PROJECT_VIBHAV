@@ -18,10 +18,10 @@ Below the organization of the files are explained
 
 
 # Files
-- **Customer_intention_prediction.data_exp.ipynb** - Contains the documentation of the exploratory Data analysis.
+- **Customer_intention_prediction.data_exp_final.ipynb** - Contains the documentation of the exploratory Data analysis.
 
-- **Customer_intention_prediction.ETL.ipynb** - Contains the code to apply necessary transformations to the original Dataset.
+- **Customer_intention_prediction_ETL_final.ipynb** - Contains the code to apply necessary transformations to the original Dataset.
 
-- **Customer_intention_prediction.models.ipynb** - Contains the code for  training, tuning and saving the models.
+- **Customer_intention_prediction_models_final.ipynb** - Contains the code for  training, tuning and saving the models.
 
 
